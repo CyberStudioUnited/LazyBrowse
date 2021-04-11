@@ -1,6 +1,6 @@
 # LazyBrowse
-LazyBrowse is a web browser that is still in development and is not ready to download
-The Software is not from Mozilla.         
+LazyBrowse is a web browser that is still in development and is not ready to download!.
+The Software is not from Mozilla!.         
 WARNING: Cloning A Copy of this project requires permission from Soup Foundry aka CyberStudioUnited, Or you will be given a warning or a strike!.
 # Mozilla Public License Version 2.0
 ==================================
