@@ -1,6 +1,6 @@
 # LazyBrowse
 LazyBrowse is a web browser that is still in development and is not ready to download
-Mozilla Public License Version 2.0
+# Mozilla Public License Version 2.0
 ==================================
 
 1. Definitions
